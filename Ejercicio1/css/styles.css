@@ -1,0 +1,27 @@
+body>div {
+    height: 100vh;
+}
+
+body>div>div {
+    background: url(imagenes/background.jpg);
+    background-size: cover;
+}
+
+
+body>div>div>div {
+    height: 450px;
+
+}
+
+div#login_text {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
+div#login_form_container {
+    color: rgb(99, 99, 99);
+}
+
+button.boton {
+    color: rgb(63, 63, 63);
+}
