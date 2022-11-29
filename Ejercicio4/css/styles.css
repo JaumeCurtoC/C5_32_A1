@@ -1,0 +1,30 @@
+body>nav>div {
+    max-width: 1380px;
+    height: 60px;
+}
+
+button.nav_button {
+    border: none;
+    color: black;
+}
+
+li.li_link {
+    padding: 10px 0px;
+}
+
+li.li_link:hover {
+    background: rgb(206, 206, 206);
+}
+
+nav.nav_bar {
+    background: linear-gradient(to top, rgba(235, 235, 235, 0.781), white);
+}
+
+div.main_text {
+    max-width: 1380px;
+}
+
+div.div_img {
+    height: 150px;
+    background-color: gray;
+}
