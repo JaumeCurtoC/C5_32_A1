@@ -6,4 +6,6 @@
 
 [Ejercicio 3](https://jaumecurtoc.github.io/C5_32_A1/EX3/)
 
-[Ejercicio 4](https://jaumecurtoc.github.io/C5_32_A1/EX4/)
+[Ejercicio 4](https://jaumecurtoc.github.io/C5_32_A1/Ejercicio4/)
+
+[Ejercicio 5](https://jaumecurtoc.github.io/C5_32_A1/EX5/)
